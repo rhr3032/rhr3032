@@ -13,9 +13,9 @@
 
 - 💬 Ask me about **Anything**
 
-- 📫 How to reach me **raisulhasanrafi3032@gmail.com**
+- 📫 Mail Me **raisulhasanrafi3032@gmail.com**
 
-- ⚡ Fun fact **I know who I'm, you don't talk about Mine.**
+- ⚡ Fact **I know who I'm, you don't talk about Mine.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
