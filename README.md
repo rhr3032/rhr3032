@@ -1,11 +1,12 @@
 ### Hi there 👋, I'm Raisul Hasan Rafi
 #### A full stacks Wed Developer and UI/UX Designer
+![A full stacks Wed Developer and UI/UX Designer](https://scontent.fdac68-1.fna.fbcdn.net/v/t1.6435-9/108362905_1015740672192915_1958679145982835436_n.jpg?_nc_cat=101&ccb=1-5&_nc_sid=8bfeb9&_nc_eui2=AeEOzMUW0XuGuaGZDF5VGnJgELctYJN6se0Qty1gk3qx7ToQMl1woxjNCxxNsvAQpndUTARjnfEiAHiSbhx1H8cP&_nc_ohc=yiNKys5riroAX9NBc_I&_nc_ht=scontent.fdac68-1.fna&oh=d0450f488ea5f7354df77b6ca091a863&oe=6183B57C)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rhr3032&label=Profile%20views&color=0e75b6&style=flat" alt="rhr3032" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rhr3032" alt="rhr3032" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/rhr_raisulrafi" target="blank"><img src="https://img.shields.io/twitter/follow/rhr_raisulrafi?logo=twitter&style=for-the-badge" alt="rhr_raisulrafi" /></a> </p>
-![A full stacks Wed Developer and UI/UX Designer](https://scontent.fdac68-1.fna.fbcdn.net/v/t1.6435-9/108362905_1015740672192915_1958679145982835436_n.jpg?_nc_cat=101&ccb=1-5&_nc_sid=8bfeb9&_nc_eui2=AeEOzMUW0XuGuaGZDF5VGnJgELctYJN6se0Qty1gk3qx7ToQMl1woxjNCxxNsvAQpndUTARjnfEiAHiSbhx1H8cP&_nc_ohc=yiNKys5riroAX9NBc_I&_nc_ht=scontent.fdac68-1.fna&oh=d0450f488ea5f7354df77b6ca091a863&oe=6183B57C)
 
 I'm Raisul Hasan Rafi, a full stacks Wed Developer. Also expert in UI/UX Design, Motion Graphics & VFX, Cartoon Animation and SEO.
 
@@ -34,9 +35,6 @@ Skills: VUE JS / REACT / JS / HSTML / CSS
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
 
-
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/rhr3032"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="rhr3032" /></a></p><br><br>
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rhr3032&show_icons=true&locale=en&layout=compact" alt="rhr3032" /></p>
