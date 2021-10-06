@@ -7,15 +7,15 @@
 
 <p align="left"> <a href="https://twitter.com/rhr_raisulrafi" target="blank"><img src="https://img.shields.io/twitter/follow/rhr_raisulrafi?logo=twitter&style=for-the-badge" alt="rhr_raisulrafi" /></a> </p>
 
-- 🔭 I’m currently working on **ReactJS**
+- 🔭 I’m currently working on: **ReactJS**
 
-- 🌱 I’m currently learning **ReactJS, Flutter**
+- 🌱 I’m currently learning: **ReactJS, Flutter**
 
 - 💬 Ask me about **Anything**
 
-- 📫 How to reach me **raisulhasanrafi3032@gmail.com**
+- 📫 Mail Me: **raisulhasanrafi3032@gmail.com**
 
-- ⚡ Fun fact **I know who I'm, you don't talk about Mine.**
+- ⚡ Fun fact: **I know who I'm, you don't talk about Mine.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
