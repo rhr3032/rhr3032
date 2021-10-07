@@ -6,8 +6,17 @@ I'm Raisul Hasan Rafi, a full stacks Wed Developer. Also expert in UI/UX Design,
 
 <p align="right"> <a href="https://twitter.com/rhr_raisulrafi" target="blank"><img src="https://img.shields.io/twitter/follow/rhr_raisulrafi?logo=twitter&style=for-the-badge" alt="rhr_raisulrafi" /></a> </p>
 
-Skills: VUE JS / REACT / JS / HSTML / CSS
-
+Skills: 
+   Web Designing (like HTML:5, CSS:3, SCSS, JavaScript, Bootstrap, jquery etc.)
+   Web Developing (like C, C++, C##, PHP, Python, SQL, Ajax, Django, Laravel, Java, NodeJS, AngularJS, VueJS, ReactJS, Ruby, Ruby on Rails, Matlab, Raspberry Pi, Swift, Arduino, Aliquam, MagentoDB, Drupal, Git, Go, R, Kotlin, Rust, TypeScript, Perl, Visual Basic, IOS, Mac, Android Developing, Linux Developing, Kali Linux, Ethical Hacking etc.)
+   SoftWare Developing
+   Video Game Developing
+   Graphics Design (Photoshop, Illustrator etc.)
+   UI/UX Design,WordPress , SEO, VFX
+   Motion Graphics (AfterEffect, Premier Pro etc.)
+   Digital Marketing, Cartoon Animation (Blender, IDesign, Animator etc.) & Photography.
+   
+   
 - 🔭 I’m currently working on ReactJS 
 - 🌱 I’m currently learning React. Flutter 
 - 💬 Ask me about Anything Else  
