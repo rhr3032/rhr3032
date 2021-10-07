@@ -37,7 +37,7 @@ Skills: VUE JS / REACT / JS / HSTML / CSS
 
  
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rhr3032" alt="rhr3032" /></a> </p>
+
 
 
 
@@ -47,11 +47,11 @@ Skills: VUE JS / REACT / JS / HSTML / CSS
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=rhr3032)](https://github.com/ryo-ma/github-profile-trophy)
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rhr3032)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=rhr3032&show_icons=true)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rhr3032)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rhr3032&" alt="rhr3032" /></p>
