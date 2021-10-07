@@ -15,7 +15,7 @@ Skills: VUE JS / REACT / JS / HSTML / CSS
 - 😄 Pronouns: RHR 
 - ⚡ Fun fact: I know who I'm, you don't talk about Mine. 
 - ![Profile views](https://gpvc.arturio.dev/rhr3032) 
-- 
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/rhr3032" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="rhr3032" height="30" width="40" /></a>
