@@ -4,7 +4,6 @@
 
 I'm Raisul Hasan Rafi, a full stacks Wed Developer. Also expert in UI/UX Design, Motion Graphics & VFX, Cartoon Animation and SEO.
 
-
 <p align="right"> <a href="https://twitter.com/rhr_raisulrafi" target="blank"><img src="https://img.shields.io/twitter/follow/rhr_raisulrafi?logo=twitter&style=for-the-badge" alt="rhr_raisulrafi" /></a> </p>
 
 Skills: VUE JS / REACT / JS / HSTML / CSS
@@ -16,10 +15,7 @@ Skills: VUE JS / REACT / JS / HSTML / CSS
 - 😄 Pronouns: RHR 
 - ⚡ Fun fact: I know who I'm, you don't talk about Mine. 
 - ![Profile views](https://gpvc.arturio.dev/rhr3032) 
-
-
-
-
+- 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/rhr3032" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="rhr3032" height="30" width="40" /></a>
@@ -35,29 +31,11 @@ Skills: VUE JS / REACT / JS / HSTML / CSS
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
 
- 
-
-
-
-
-
-
-
-
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=rhr3032)](https://github.com/ryo-ma/github-profile-trophy)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rhr3032)](https://github.com/anuraghazra/github-readme-stats)
-
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=rhr3032&show_icons=true)  
-
-
-
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rhr3032&" alt="rhr3032" /></p>
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=rhr3032)](https://github.com/ryo-ma/github-profile-trophy)
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=rhr3032)  
-
 ![GitHub metrics](https://metrics.lecoq.io/rhr3032) 
 
 
