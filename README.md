@@ -4,7 +4,9 @@
 
 I'm Raisul Hasan Rafi, a full stacks Wed Developer. Also expert in UI/UX Design, Motion Graphics & VFX, Cartoon Animation and SEO.
 
-<p align="right"> <a href="https://twitter.com/rhr_raisulrafi" target="blank"><img src="https://img.shields.io/twitter/follow/rhr_raisulrafi?logo=twitter&style=for-the-badge" alt="rhr_raisulrafi" /></a> </p>
+
+![Profile views](https://gpvc.arturio.dev/rhr3032)
+<p align="left"> <a href="https://twitter.com/rhr_raisulrafi" target="blank"><img src="https://img.shields.io/twitter/follow/rhr_raisulrafi?logo=twitter&style=for-the-badge" alt="rhr_raisulrafi" /></a> </p>
 
 
    
@@ -15,7 +17,7 @@ I'm Raisul Hasan Rafi, a full stacks Wed Developer. Also expert in UI/UX Design,
 - 📫 How to reach me: raisulhasanrafi3032@gmail.com 
 - 😄 Pronouns: RHR 
 - ⚡ Fun fact: I know who I'm, you don't talk about Mine. 
-- ![Profile views](https://gpvc.arturio.dev/rhr3032) 
+-  
 
 
 
