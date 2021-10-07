@@ -4,7 +4,7 @@
 
 I'm Raisul Hasan Rafi, a full stacks Wed Developer. Also expert in UI/UX Design, Motion Graphics & VFX, Cartoon Animation and SEO.
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=rhr3032&label=Profile%20views&color=0e75b6&style=flat" alt="rhr3032" /> </p>
+
 <p align="right"> <a href="https://twitter.com/rhr_raisulrafi" target="blank"><img src="https://img.shields.io/twitter/follow/rhr_raisulrafi?logo=twitter&style=for-the-badge" alt="rhr_raisulrafi" /></a> </p>
 
 Skills: VUE JS / REACT / JS / HSTML / CSS
@@ -60,6 +60,5 @@ Skills: VUE JS / REACT / JS / HSTML / CSS
 
 ![GitHub metrics](https://metrics.lecoq.io/rhr3032)  
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=rhr3032)  
 
  
