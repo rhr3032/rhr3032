@@ -5,13 +5,9 @@ Also expert in,
 
     Wordpress
 	
-	UI/UX Design
-	
-	Graphics Design
-	
 	Motion Graphics and VFX
 	
-	Carton Animation
+	Cartoon & 3D Animation
 	
 	Search Engine Optimization (SEO) 
 
