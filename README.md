@@ -1,5 +1,20 @@
 ### Hi there 👋, I'm Raisul Hasan Rafi
 #### A full stacks Wed Developer and UI/UX Designer
+
+Also expert in,
+
+    Wordpress
+	
+	UI/UX Design
+	
+	Graphics Design
+	
+	Motion Graphics and VFX
+	
+	Carton Animation
+	
+	Search Engine Optimization (SEO) 
+
 ![A full stacks Wed Developer and UI/UX Designer](https://scontent.fdac68-1.fna.fbcdn.net/v/t1.6435-9/108362905_1015740672192915_1958679145982835436_n.jpg?_nc_cat=101&ccb=1-5&_nc_sid=8bfeb9&_nc_eui2=AeEOzMUW0XuGuaGZDF5VGnJgELctYJN6se0Qty1gk3qx7ToQMl1woxjNCxxNsvAQpndUTARjnfEiAHiSbhx1H8cP&_nc_ohc=yiNKys5riroAX9NBc_I&_nc_ht=scontent.fdac68-1.fna&oh=d0450f488ea5f7354df77b6ca091a863&oe=6183B57C)
 
 I'm Raisul Hasan Rafi, a full stacks Wed Developer. Also expert in UI/UX Design, Motion Graphics & VFX, Cartoon Animation and SEO.
@@ -17,7 +32,22 @@ I'm Raisul Hasan Rafi, a full stacks Wed Developer. Also expert in UI/UX Design,
 - 📫 How to reach me: raisulhasanrafi3032@gmail.com 
 - 😄 Pronouns: RHR 
 - ⚡ Fun fact: I know who I'm, you don't talk about Mine. 
--  
+
+
+Follow Me on Social Media:
+
+	Facebook: rhr.raisulrafi
+	
+	Instagram: rhr_raisulrafi
+	
+	Twitter: rhr_raisulrafi
+	
+	Github: rhr3032
+	
+	Mail: rhr3032@yahoo.com
+	
+	Visit Website: bit.ly/3iPf8iR
+
 
 
 
@@ -48,11 +78,14 @@ I'm Raisul Hasan Rafi, a full stacks Wed Developer. Also expert in UI/UX Design,
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rhr3032&" alt="rhr3032" /></p>
 
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=rhr3032)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=rhr3032)  
 
 ![GitHub metrics](https://metrics.lecoq.io/rhr3032) 
+
+Copyright 2021 Raisul Hasan Rafi | All Rights Reserved.
 
 
 
