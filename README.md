@@ -15,7 +15,7 @@ Also expert in,
 
 
 
-![Profile views](https://gpvc.arturio.dev/rhr3032)
+![Profile views](https://pbs.twimg.com/profile_banners/1226353259079704582/1634165079/1500x500)
 <p align="left"> <a href="https://twitter.com/rhr_raisulrafi" target="blank"><img src="https://img.shields.io/twitter/follow/rhr_raisulrafi?logo=twitter&style=for-the-badge" alt="rhr_raisulrafi" /></a> </p>
 
 
