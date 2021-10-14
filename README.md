@@ -15,7 +15,7 @@ Also expert in,
 
 
 
-![Profile views]x
+
 <p align="left"> <a href="https://twitter.com/rhr_raisulrafi" target="blank"><img src="https://img.shields.io/twitter/follow/rhr_raisulrafi?logo=twitter&style=for-the-badge" alt="rhr_raisulrafi" /></a> </p>
 
 
