@@ -24,10 +24,11 @@
 <a href="https://codepen.io/rhr3032" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="rhr3032" height="30" width="40" /></a>
 <a href="https://twitter.com/rhr_raisulrafi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rhr_raisulrafi" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/rhr3032" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rhr3032" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/17236725/raisul-rafi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/17236725/raisul-rafi" height="30" width="40" /></a>
 <a href="https://fb.com/rhr.raisulrafi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rhr.raisulrafi" height="30" width="40" /></a>
 <a href="https://instagram.com/rhr_raisulrafi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rhr_raisulrafi" height="30" width="40" /></a>
 <a href="https://www.behance.net/rhr3032" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="rhr3032" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UC6aM_MK_ZCNmV1drT5Jr-qg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="nuys coding" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/nuys coding" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="nuys coding" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
