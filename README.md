@@ -28,7 +28,7 @@
 <a href="https://fb.com/rhr.raisulrafi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rhr.raisulrafi" height="30" width="40" /></a>
 <a href="https://instagram.com/rhr_raisulrafi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rhr_raisulrafi" height="30" width="40" /></a>
 <a href="https://www.behance.net/rhr3032" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="rhr3032" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/nuys coding" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="nuys coding" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UC7ylsoW_wTBO1StGrpMAIWw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="nuys coding" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
