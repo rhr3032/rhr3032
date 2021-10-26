@@ -38,7 +38,7 @@
 <p><a href="https://www.buymeacoffee.com/rhr3032"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="rhr3032" /></a></p><br><br>
 
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=rhr3032&show_icons=true&locale=en&layout=compact" alt="rhr3032" /></p>
-
+<br>
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=rhr3032&show_icons=true&locale=en" alt="rhr3032" /></p>
-
+<br>
 <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=rhr3032&" alt="rhr3032" /></p>
