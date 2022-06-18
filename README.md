@@ -33,7 +33,7 @@ Also skilled in Web Application Development, Motion Graphics, VFX, Cartoon Anima
 
 - 📥 Inbox Me on [Facebook](https://m.me/rhr.raisulrafi) 📨
 
-- 📃 My [Resume](href="images/Resume_RH_Rafi.pdf)
+- 📃 My [Resume](href="images/Resume_RH_Rafi.pdf")
 
 - 💬 Ask me about **Anything 🤷🏻‍♀️**
 
