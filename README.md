@@ -14,7 +14,7 @@
 
 - 🔭 I’m currently working on **ReactJS**
 
-- 🌱 I’m currently learning **Dart**
+- 🌱 I’m currently learning **Python**
 
 - 👨‍💻 All of my Development projects are available at [GitHub](https://github.com/rhr3032)
 - 🖥️ All of my UI/UX Design projects are available at
