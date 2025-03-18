@@ -2,10 +2,7 @@
 <img src="images/profile.png" alt="rhr3032" width="30%"/>
 </p>
 <h1 align="center">Hello👋... I'm Raisul Hasan Rafi (NUYsDev)</h1>
-<h3 align="center">A Full-Stack Web Developer & UI/UX Designer.</h3>
-<p align="center">
-Also expert in CX Design | WordPress Theme Development | NFT Art | Cartoon Animation | Motion Graphics | VFX | Search Engine Optimization (SEO) | Social Media Marketing | Photography and Video Editing.
-</p>
+<h3 align="center">A Frontend Developer & UI/UX Designer.</h3>
 
 <p align="left">
 <img src="https://komarev.com/ghpvc/?username=rhr3032&label=Profile%20views&color=0e75b6&style=flat" alt="rhr3032" />
