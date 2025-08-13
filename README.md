@@ -2,14 +2,14 @@
 <img src="images/profile.png" alt="rhr3032" width="30%"/>
 </p>
 <h1 align="center">Hello👋... I'm Raisul Hasan Rafi (NUYsDev)</h1>
-<h3 align="center">UI/UX Developer</h3>
+<h3 align="center">UI/UX Designer</h3>
 
 <p align="left">
 <img src="https://komarev.com/ghpvc/?username=rhr3032&label=Profile%20views&color=0e75b6&style=flat" alt="rhr3032" />
 </p>
 
 <p align="left">
-<a href="https://twitter.com/rhr_raisulrafi" target="blank"><img src="https://img.shields.io/twitter/follow/rhr_raisulrafi?logo=twitter&style=for-the-badge" alt="rhr_raisulrafi" /></a>
+<a href="https://twitter.com/rhr_raisulrafi" target="blank"><img src="https://img.shields.io/twitter/follow/raisul rafi?logo=x&style=for-the-badge" alt="rhr_raisulrafi" /></a>
 </p>
 
 - 🔭 I’m currently working on **React**
@@ -32,7 +32,7 @@
 
 - 📃 My [Resume](https://nuysdev.netlify.com/)
 
-- 📃 My [Certificate](https://drive.google.com/file/d/19rm2h3MyfzUq-ygVDZfEz6xvaK0KLXvG/view?usp=sharing)
+<!-- - 📃 My [Certificate](https://drive.google.com/file/d/19rm2h3MyfzUq-ygVDZfEz6xvaK0KLXvG/view?usp=sharing) -->
 
 - 💬 Ask me about **Anything 🤷🏻‍♀️**
 
@@ -79,7 +79,7 @@
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rhr3032" alt="rhr3032" /></a>
 </p>
 
-<br><hr><hr>
+<br>
 <br>
 
 <h1 align="left">Languages and Tools :</h1>
@@ -395,7 +395,7 @@
 
 ####
 <br>
-<hr><hr><hr>
+<hr>
 
 <h3 align="left">Support :</h3>
 <p><a href="https://www.buymeacoffee.com/rhr3032"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="rhr3032" /></a></p>
