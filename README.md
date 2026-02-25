@@ -66,17 +66,26 @@
 </p>
 
 <hr>
-
+<br>
+<p align="center">
+	<!-- Fallback badges using shields.io -->
+	<img src="https://img.shields.io/github/followers/rhr3032?label=Followers&style=social" alt="GitHub Followers" />
+	<img src="https://img.shields.io/github/stars/rhr3032?label=Stars&style=social" alt="GitHub Stars" />
+	<img src="https://img.shields.io/github/last-commit/rhr3032/readme?label=Last%20Commit" alt="Last Commit" />
+	<img src="https://img.shields.io/github/languages/top/rhr3032/readme?label=Top%20Language" alt="Top Language" />
+</p>
 <br>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rhr3032&show_icons=true&locale=en&layout=compact" alt="rhr3032" /></p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=rhr3032&show_icons=true&locale=en" alt="rhr3032" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rhr3032&" alt="rhr3032" /></p>
-
-<p align="left">
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rhr3032" alt="rhr3032" /></a>
+<p align="center">
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rhr3032&show_icons=true&locale=en&layout=compact&cache_seconds=86400" alt="Top Langs" />
+	<br>
+	<img src="https://github-readme-stats.vercel.app/api?username=rhr3032&show_icons=true&locale=en&cache_seconds=86400" alt="GitHub Stats" />
+	<br>
+	<img src="https://github-readme-streak-stats.herokuapp.com/?user=rhr3032&cache_seconds=86400" alt="GitHub Streak" />
+	<br>
+	<a href="https://github.com/ryo-ma/github-profile-trophy">
+		<img src="https://github-profile-trophy.vercel.app/?username=rhr3032&cache_seconds=86400" alt="GitHub Trophies" />
+	</a>
 </p>
 
 <br>
