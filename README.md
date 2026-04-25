@@ -1,4 +1,4 @@
-<<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b">
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b">
 
 <h1 align="center">Raisul R.</h1>
 <h3 align="center">UI/UX Designer | Developer</h3>
