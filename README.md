@@ -32,9 +32,8 @@
 <hr>
 <br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rhr3032)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rhr3032&layout=donut)
 ![Raisul Rafi's GitHub stats](https://github-readme-stats.vercel.app/api?username=rhr3032)
-![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rhr3032)
 
 
 
