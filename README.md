@@ -28,15 +28,15 @@
 <img src="https://komarev.com/ghpvc/?username=rhr3032&label=Profile%20views&color=0e75b6&style=flat" alt="rhr3032" />
 </p>
 <h3 align="center">Find me on :</h3>
-<div align="center">
-<a href="https://twitter.com/rhr_raisulrafi" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rhr_raisulrafi" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/rhr3032" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rhr3032" height="30" width="40" /></a>
-<a href="https://facebook.com/rhr.raisulrafi" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rhr.raisulrafi" height="30" width="40" /></a>
-<a href="https://instagram.com/nuys.raisulrafi" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rhr_raisulrafi" height="30" width="40" /></a>
-<a href="https://www.behance.net/rhr3032" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="rhr3032" height="30" width="40" /></a>
-<a href="https://dribbble.net/rhr3032" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="rhr3032" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@NUYsDev" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="NUYsDev" height="30" width="40" /></a>
-</div>
+<p align="center">
+  <a href="https://twitter.com/rhr_raisulrafi" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rhr_raisulrafi" height="30" width="40" style="margin: 0 5px;" /></a>
+  <a href="https://linkedin.com/in/rhr3032" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rhr3032" height="30" width="40" style="margin: 0 5px;" /></a>
+  <a href="https://facebook.com/rhr.raisulrafi" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rhr.raisulrafi" height="30" width="40" style="margin: 0 5px;" /></a>
+  <a href="https://instagram.com/nuys.raisulrafi" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rhr_raisulrafi" height="30" width="40" style="margin: 0 5px;" /></a>
+  <a href="https://www.behance.net/rhr3032" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="rhr3032" height="30" width="40" style="margin: 0 5px;" /></a>
+  <a href="https://dribbble.net/rhr3032" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="rhr3032" height="30" width="40" style="margin: 0 5px;" /></a>
+  <a href="https://www.youtube.com/@NUYsDev" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="NUYsDev" height="30" width="40" style="margin: 0 5px;" /></a>
+</p>
 
 <hr>
 <br>
